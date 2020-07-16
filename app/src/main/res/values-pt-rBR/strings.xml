@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EXPOTEC</string>
+    <string name="menu_exit">Sair</string>
+    <string name="menu_login">Entrar</string>
+    <string name="title_home">Home</string>
+    <string name="prompt_name">Nome</string>
+    <string name="welcome">Bem vindo !</string>
+    <string name="title_activity_maps">Mapa</string>
+    <string name="prompt_password">Senha</string>
+    <string name="title_activity_login">Entrar</string>
+    <string name="menu_units">Unidades</string>
+    <string name="menu_tools">Ferramentas</string>
+    <string name="menu_share">Compartilhar</string>
+    <string name="menu_more">Mais</string>
+    <string name="menu_events">Eventos</string>
+    <string name="menu_coupons">Cupons</string>
+    <string name="menu_about">Sobre</string>
+    <string name="login_failed">Erro ao logar</string>
+    <string name="invalid_username">Nome de usuário inválido</string>
+    <string name="invalid_password">Senha precisa ter no mínimo 6 caracteres</string>
+    <string name="action_sign_in_short">Entrar</string>
+    <string name="action_sign_in">Entrar ou Registrar</string>
+    <string name="button_vermais_card">Clique aqui e Inscreva-se no site para participar do evento, evite filas! »</string>
+    <string name="action_settings">Configurações</string>
+    <string name="prompt_phone">Telefone</string>
+    <string name="action_register">Criar nova conta...</string>
+    <string name="register_success">Registro Inserido com Sucesso!!!</string>
+    <string name="register_insuccess">Falha ao registrar usuário!!!</string>
+    <string name="str_coupon">Vá até o estande do Curso de Informática do Jardim Belval para validação!</string>
+    <string name="str_aviso_coupon">Este cupom é válido para o dia de hoje!</string>
+    <string name="menu_reader">Leitor</string>
+    <string name="action_sorteio">Sortear</string>
+    <string name="menu_sort">Sorteio</string>
+    <string name="descricao_belval">Localizado ao lado da estação CPTM do Jardim Belval, o ITB Brasílio Flores de Azevedo, foi inaugurado em 1992, antes mesmo da criação da FIEB. Em 2001 a entidade passou a ser mantida pela FIEB, desde então, aumentou sua capacidade de atendimento.\\n\\nContando atualmente com 2.718 alunos, o local garante excelente infraestrutura com 25 salas de aula e 22 laboratórios. São espaços exclusivos para estudos de Informática Aplicada a Construção Civil, Desenho de Construção Civil, Hidráulica, Elétrica, Materiais e Solos, Comandos Elétricos, Comandos Pneumáticos, Eletrônica Analógica, Informática para Eletrônica, Programação, Projetos, Antenas, Telefonia, Telecomunicações, Redes de Computadores e Ciências da Natureza.\\n\\n A Unidade do Jardim Belval conta com auditório com capacidade para 200 pessoas, além de biblioteca e quadra coberta.</string>
+    <string name="descricao_expotec_card">Na Expotec, os estudantes poderão participar de apresentações, dinâmicas, oficinas e exposições, perguntando, e tirando possíveis dúvidas sobre o currículo pedagógico de cada curso, assim como das bases técnicas apropriadas para compor o perfil necessário para adesão ao mercado de trabalho.</string>
+    <string name="str_politica">Política de privacidade para FIEB Expotec Jardim Belval Todas as suas informações pessoais recolhidas, serão usadas para o ajudar a tornar a sua visita no nosso site o mais produtiva e agradável possível.  A garantia da confidencialidade dos dados pessoais dos utilizadores do nosso site é importante para o FIEB Expotec Jardim Belval.  Todas as informações pessoais relativas a membros, assinantes, clientes ou visitantes que usem o FIEB Expotec Jardim Belval serão tratadas em concordância com a Lei da Proteção de Dados Pessoais de 26 de outubro de 1998 (Lei n.º 67/98).  A informação pessoal recolhida pode incluir o seu nome, e-mail, número de telefone e/ou telemóvel, morada, data de nascimento e/ou outros.  O uso do FIEB Expotec Jardim Belval pressupõe a aceitação deste Acordo de privacidade. A equipa do FIEB Expotec Jardim Belval reserva-se ao direito de alterar este acordo sem aviso prévio. Deste modo, recomendamos que consulte a nossa política de privacidade com regularidade de forma a estar sempre atualizado.  Os anúncios Tal como outros websites, coletamos e utilizamos informação contida nos anúncios. A informação contida nos anúncios, inclui o seu endereço IP (Internet Protocol), o seu ISP (Internet Service Provider, como o Sapo, Clix, ou outro), o browser que utilizou ao visitar o nosso website (como o Internet Explorer ou o Firefox), o tempo da sua visita e que páginas visitou dentro do nosso website.  Ligações a Sites de terceiros O FIEB Expotec Jardim Belval possui ligações para outros sites, os quais, a nosso ver, podem conter informações / ferramentas úteis para os nossos visitantes. A nossa política de privacidade não é aplicada a sites de terceiros, pelo que, caso visite outro site a partir do nosso deverá ler a politica de privacidade do mesmo.  Não nos responsabilizamos pela política de privacidade ou conteúdo presente nesses mesmos sites.</string>
+    <string name="str_declaracao">Declaro estar de acordo com a política de privacidade do aplicativo abaixo:</string>
+    <string name="btn_register">Registrar</string>
+    <string name="cronograma">
+        "DIA 30/08/19 \n"
+        "09H ÀS 21H: HACKATHON \n"
+        "10H ÀS 12H: GASTRONOMIA  \n"
+        "14H ÀS 16H: DESIGN THINKING  \n"
+        "17H ÀS 19H: ROBÓTICA E INOVAÇÃO  \n"
+        "19H ÀS 21H: COPA FIEB DE FUTEBOL DE ROBÔ  \n\n"
+        "DIA 31/08/19 \n"
+        "09H ÀS 16H: HACKATHON  \n"
+        "11H ÀS 13H: FABRICAÇÃO ARTESANAL DE CERVEJA  \n"
+        "15H ÀS 17H: CANVAS  \n"
+        "17H ÀS 19H: COPA FIEB DE FUTEBOL DE ROBÔ \n"</string>
+    <string name="title_activity_eventos">WORKSHOPS</string>
+    <string name="title_activity_main_bottom">FIEB</string>
+    <string name="dialog_login">Bem vindo ao FIEB Expotec, clique no menu para entrar no app e participar de sorteio de brindes!</string>
+    <string name="dialog_wait">Aguarde ...</string>
+    <string name="nome_obrigatorio">Digite seu nome</string>
+    <string name="senha_obrigatoria">Digite uma senha</string>
+    <string name="email_obrigatorio">Digite um email válido</string>
+    <string name="autenticacao_falhou">Usuário ou senha inválida!!!</string>
+    <string name="menu_map">Mapa do Evento</string>
+    <string name="todo">TODO</string>
+    <string name="_13_eletroeletr_nica">13 - Eletroeletrônica</string>
+    <string name="_12_qu_mica">12 - Química</string>
+    <string name="_1_redes_de_computadores">1 - Redes de Computadores</string>
+    <string name="_3_inform_tica">3 - Informática</string>
+    <string name="_4_seguran_a_do_trabalho">4 - Segurança do trabalho</string>
+    <string name="_5_edifica_es">5 - Edificações</string>
+    <string name="_6_design_de_interiores">6 - Design de Interiores</string>
+    <string name="_7_inform_tica_para_internet">7 - Informática para Internet</string>
+    <string name="_8_publicidade">8 - Publicidade</string>
+    <string name="_9_farm_cia">9 - Farmácia</string>
+    <string name="_10_an_lises_cl_nicas">10 - Análises Clínicas</string>
+    <string name="_11_enfermagem">11 - Enfermagem</string>
+    <string name="_14_telecomunica_es">14 - Telecomunicações</string>
+    <string name="_15_log_stica">15 - Logística</string>
+    <string name="_16_administra_o">16 - Administração</string>
+    <string name="_17_recursos_humanos">17 - Recursos Humanos</string>
+    <string name="_18_hospedagem">18 - Hospedagem</string>
+    <string name="_19_secretariado">19 - Secretariado</string>
+    <string name="_20_servi_os_jur_dicos">20 - Serviços Jurídicos</string>
+    <string name="_21_22_contabilidade">21/22 - Contabilidade</string>
+    <string name="_21_22_finan_as">21/22 - Finanças</string>
+    <string name="_21_22_servi_os_p_blicos">21/22 - Serviços Públicos</string>
+    <string name="_2_manuten_o_e_suporte">2 - Manutenção e Suporte</string>
+</resources>

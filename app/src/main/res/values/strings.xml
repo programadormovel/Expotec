@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">EXPOTEC</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Informática ITB Belval</string>
+    <string name="nav_header_subtitle">itbbelval@fieb.edu.br</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- MENU TITLES -->
+    <string name="menu_events">Events</string>
+    <string name="menu_units">Unidades</string>
+    <string name="menu_coupons">Cupons</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Sharing</string>
+    <string name="menu_about">About it</string>
+    <string name="menu_more">More</string>
+    <string name="menu_exit">Exit</string>
+    <string name="menu_map">Event\' Map</string>
+
+    <!-- BOTTOMNAVIGATION TITLES -->
+    <string name="title_activity_main_bottom">FIEB</string>
+    <string name="title_home">Home</string>
+    <string name="descricao_expotec_card">Na Expotec, os estudantes poderão participar de apresentações, dinâmicas, oficinas e exposições, perguntando, e tirando possíveis dúvidas sobre o currículo pedagógico de cada curso, assim como das bases técnicas apropriadas para compor o perfil necessário para adesão ao mercado de trabalho.</string>
+    <string name="button_vermais_card">"Click here and See more on site! » "</string>
+    <string name="title_activity_login">Login</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="str_coupon">Go to stand Jardim Belval\' Informatica for validation!</string>
+    <string name="menu_login">Login</string>
+    <string name="prompt_name">Name</string>
+    <string name="prompt_phone">Phone</string>
+    <string name="action_register">Create new account...</string>
+    <string name="register_success">Register is Entered Success</string>
+    <string name="register_insuccess">Register failed!!!</string>
+    <string name="str_aviso_coupon">This coupon is valid for today only!</string>
+    <string name="menu_reader">Reader</string>
+    <string name="action_sorteio">Sort</string>
+    <string name="menu_sort">Sort</string>
+    <string name="descricao_belval">Localizado ao lado da estação CPTM do Jardim Belval, o ITB Brasílio Flores de Azevedo, foi inaugurado em 1992, antes mesmo da criação da FIEB. Em 2001 a entidade passou a ser mantida pela FIEB, desde então, aumentou sua capacidade de atendimento.\\n\\nContando atualmente com 2.718 alunos, o local garante excelente infraestrutura com 25 salas de aula e 22 laboratórios. São espaços exclusivos para estudos de Informática Aplicada a Construção Civil, Desenho de Construção Civil, Hidráulica, Elétrica, Materiais e Solos, Comandos Elétricos, Comandos Pneumáticos, Eletrônica Analógica, Informática para Eletrônica, Programação, Projetos, Antenas, Telefonia, Telecomunicações, Redes de Computadores e Ciências da Natureza.\\n\\n A Unidade do Jardim Belval conta com auditório com capacidade para 200 pessoas, além de biblioteca e quadra coberta.</string>
+    <string name="str_politica">Política de privacidade para FIEB Expotec Jardim Belval Todas as suas informações pessoais recolhidas, serão usadas para o ajudar a tornar a sua visita no nosso site o mais produtiva e agradável possível.  A garantia da confidencialidade dos dados pessoais dos utilizadores do nosso site é importante para o FIEB Expotec Jardim Belval.  Todas as informações pessoais relativas a membros, assinantes, clientes ou visitantes que usem o FIEB Expotec Jardim Belval serão tratadas em concordância com a Lei da Proteção de Dados Pessoais de 26 de outubro de 1998 (Lei n.º 67/98).  A informação pessoal recolhida pode incluir o seu nome, e-mail, número de telefone e/ou telemóvel, morada, data de nascimento e/ou outros.  O uso do FIEB Expotec Jardim Belval pressupõe a aceitação deste Acordo de privacidade. A equipa do FIEB Expotec Jardim Belval reserva-se ao direito de alterar este acordo sem aviso prévio. Deste modo, recomendamos que consulte a nossa política de privacidade com regularidade de forma a estar sempre atualizado.  Os anúncios Tal como outros websites, coletamos e utilizamos informação contida nos anúncios. A informação contida nos anúncios, inclui o seu endereço IP (Internet Protocol), o seu ISP (Internet Service Provider, como o Sapo, Clix, ou outro), o browser que utilizou ao visitar o nosso website (como o Internet Explorer ou o Firefox), o tempo da sua visita e que páginas visitou dentro do nosso website.  Ligações a Sites de terceiros O FIEB Expotec Jardim Belval possui ligações para outros sites, os quais, a nosso ver, podem conter informações / ferramentas úteis para os nossos visitantes. A nossa política de privacidade não é aplicada a sites de terceiros, pelo que, caso visite outro site a partir do nosso deverá ler a politica de privacidade do mesmo.  Não nos responsabilizamos pela política de privacidade ou conteúdo presente nesses mesmos sites.</string>
+    <string name="str_declaracao">Declaro estar de acordo com a política de privacidade do aplicativo abaixo:</string>
+    <string name="btn_register">Register</string>
+    <string name="cronograma">"DIA 30/08/19           09H ÀS 21H: HACKATHON           10H ÀS 12H: GASTRONOMIA            14H ÀS 16H: DESIGN THINKING            17H ÀS 19H: ROBÓTICA E INOVAÇÃO            19H ÀS 21H: COPA FIEB DE FUTEBOL DE ROBÔ             DIA 31/08/19           09H ÀS 16H: HACKATHON            11H ÀS 13H: FABRICAÇÃO ARTESANAL DE CERVEJA            15H ÀS 17H: CANVAS            17H ÀS 19H: COPA FIEB DE FUTEBOL DE ROBÔ  "</string>
+    <string name="title_activity_eventos">WORKSHOPS</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="dialog_login">Welcome on FIEB Expotec, click on drag menu to login</string>
+    <string name="dialog_wait">Wait...</string>
+    <string name="nome_obrigatorio">Write your name</string>
+    <string name="senha_obrigatoria">Write a password</string>
+    <string name="email_obrigatorio">Write your e-mail</string>
+    <string name="autenticacao_falhou">Authentication failed.</string>
+
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="todo">TODO</string>
+    <string name="_13_eletroeletr_nica">13 - Eletroeletrônica</string>
+    <string name="_12_qu_mica">12 - Química</string>
+    <string name="_1_redes_de_computadores">1 - Redes de Computadores</string>
+    <string name="_3_inform_tica">3 - Informática</string>
+    <string name="_4_seguran_a_do_trabalho">4 - Segurança do trabalho</string>
+    <string name="_5_edifica_es">5 - Edificações</string>
+    <string name="_6_design_de_interiores">6 - Design de Interiores</string>
+    <string name="_7_inform_tica_para_internet">7 - Informática para Internet</string>
+    <string name="_8_publicidade">8 - Publicidade</string>
+    <string name="_9_farm_cia">9 - Farmácia</string>
+    <string name="_10_an_lises_cl_nicas">10 - Análises Clínicas</string>
+    <string name="_11_enfermagem">11 - Enfermagem</string>
+    <string name="_14_telecomunica_es">14 - Telecomunicações</string>
+    <string name="_15_log_stica">15 - Logística</string>
+    <string name="_16_administra_o">16 - Administração</string>
+    <string name="_17_recursos_humanos">17 - Recursos Humanos</string>
+    <string name="_18_hospedagem">18 - Hospedagem</string>
+    <string name="_19_secretariado">19 - Secretariado</string>
+    <string name="_20_servi_os_jur_dicos">20 - Serviços Jurídicos</string>
+    <string name="_21_22_contabilidade">21/22 - Contabilidade</string>
+    <string name="_21_22_finan_as">21/22 - Finanças</string>
+    <string name="_21_22_servi_os_p_blicos">21/22 - Serviços Públicos</string>
+    <string name="_2_manuten_o_e_suporte">2 - Manutenção e Suporte</string>
+</resources>

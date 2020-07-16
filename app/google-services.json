@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "746509309455",
+    "firebase_url": "https://expotecapp-88613-184bc.firebaseio.com",
+    "project_id": "expotecapp-88613",
+    "storage_bucket": "expotecapp-88613.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746509309455:android:7a0ad45d0f48fce1",
+        "android_client_info": {
+          "package_name": "com.itbbelval.expotec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746509309455-otj378vjhfrbge96bffub8o5o35bsbdr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.itbbelval.expotec",
+            "certificate_hash": "3452305c4af32d00513b2e91a8b2670c0f357dfe"
+          }
+        },
+        {
+          "client_id": "746509309455-5nsc2s1l1fhevod3i0lusouni3ool5nl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD_cCqxw62yCOvb3B3v9bQu6Bif7aajww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746509309455-5nsc2s1l1fhevod3i0lusouni3ool5nl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

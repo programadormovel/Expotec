@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <ScrollView
+        android:id="@+id/scroll_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingBottom="50dp"
+            android:orientation="vertical">
+
+            <!--TODO: INSERIR IMAGEM UNIDADE-->
+            <ImageView
+                android:id="@+id/image_imagem_unidade"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/unidade_belval" />
+
+            <!--TODO: INSERIR TITULO UNIDADE-->
+            <TextView
+                android:id="@+id/text_titulo_unidade"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingHorizontal="10dp"
+                android:paddingVertical="8dp"
+                android:text="FIEB - JARDIM BELVAL"
+                android:textAppearance="@style/TextAppearance.AppCompat.Title"
+                android:textColor="#6f1f41" />
+
+            <!--TODO: INSERIR NOME UNIDADE-->
+            <TextView
+                android:id="@+id/text_nome_unidade"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingHorizontal="10dp"
+                android:paddingVertical="4dp"
+                android:text="ITB BRASILIO FLORES DE AZEVEDO"
+                android:textAppearance="@style/TextAppearance.AppCompat.Caption"
+                android:textColor="#6f1f41"
+                android:textSize="14dp" />
+
+            <!--TODO: INSERIR DESCRIÇÃO UNIDADE-->
+            <TextView
+                android:id="@+id/text_descricao_unidade"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom"
+
+                android:paddingHorizontal="10dp"
+                android:paddingVertical="4dp"
+
+                android:text="@string/descricao_belval" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingHorizontal="10dp"
+                android:paddingVertical="4dp"
+                android:text="CURSOS"
+                android:textAppearance="@style/TextAppearance.AppCompat.Title"
+                android:textColor="#6f1f41" />
+
+            <!--TODO: INSERIR LISTA DE CURSOS-->
+            <ListView
+                android:id="@+id/list_cursos_unidade"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingHorizontal="10dp"
+                android:paddingVertical="8dp">
+
+            </ListView>
+        </LinearLayout>
+    </ScrollView>
+
+    <!--TODO: INSERIR LOCALIZAÇÃO UNIDADE-->
+    <Button
+        android:id="@+id/button_localizacao_unidade"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/scroll_content"
+        android:layout_alignParentEnd="true"
+
+        android:textColor="@android:color/white"
+        android:background="#6f1f41"
+
+        android:text="VER LOCALIZAÇÃO"/>
+</RelativeLayout>

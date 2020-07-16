@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="nav_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_events"
+            android:icon="@drawable/ic_new_releases"
+            android:enabled="true"
+            android:title="@string/menu_events" />
+        <item
+            android:id="@+id/nav_units"
+            android:icon="@drawable/ic_business"
+            android:enabled="true"
+            android:title="@string/menu_units" />
+        <item
+            android:id="@+id/nav_map"
+            android:icon="@drawable/ic_map"
+            android:enabled="true"
+            android:title="@string/menu_map" />
+        <item
+            android:id="@+id/nav_units2"
+            android:icon="@drawable/ic_business"
+            android:enabled="false"
+            android:visible="false"
+            android:title="@string/menu_units" />
+        <item
+            android:id="@+id/nav_coupons"
+            android:icon="@drawable/ic_coupon"
+            android:enabled="false"
+            android:title="@string/menu_coupons" />
+        <item
+            android:id="@+id/nav_reader"
+            android:icon="@drawable/ic_action_reader"
+            android:enabled="false"
+            android:visible="false"
+            android:title="@string/menu_reader" />
+        <item
+            android:id="@+id/nav_sort"
+            android:icon="@drawable/ic_action_sort"
+            android:enabled="false"
+            android:visible="false"
+            android:title="@string/menu_sort" />
+        <item
+            android:id="@+id/nav_tools"
+            android:icon="@drawable/ic_menu_manage"
+            android:enabled="false"
+            android:visible="false"
+            android:title="@string/menu_tools" />
+    </group>
+
+    <item android:title="@string/menu_more">
+        <menu>
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_help_outline"
+                android:enabled="true"
+                android:title="@string/menu_about"/>
+            <item
+                android:id="@+id/nav_login"
+                android:icon="@drawable/ic_action_login"
+                android:enabled="false"
+                android:title="@string/menu_login"/>
+            <item
+                android:id="@+id/nav_exit"
+                android:icon="@drawable/ic_action_exit"
+                android:enabled="true"
+                android:title="@string/menu_exit"/>
+        </menu>
+    </item>
+
+</menu>

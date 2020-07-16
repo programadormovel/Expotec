@@ -1,0 +1,96 @@
+[
+  {
+    "titulo": "FIEB - ALDEIA DA SERRA",
+    "nome": "EEFMT - Escola de Ensino Fundamental, Médio e Técnico",
+    "descricao": "Escola mais recente da FIEB, a Unidade Aldeia da Serra foi entregue à população em 2019 com capacidade inicial para 210 alunos do Ensino Médio.\n\nA criação do espaço atende às demandas da população da região, tornando a unidade a única escola pública de Ensino Médio do bairro. A Unidade Aldeia da Serra contempla 6 salas de aulas, biblioteca digital com capacidade para 48 alunos, praça de alimentação, sala de reforço para até 18 alunos e auditório com 70 lugares.",
+    "cursos": [
+      "Educação Básica"
+    ]
+  },
+  {
+    "titulo": "FIEB - ALPHAVILLE",
+    "nome": "EEFMT MARIA THEODORA PEDREIRA DE FREITAS",
+    "descricao": "Inaugurada em 1994, a EEFMT Professora Maria Theodora Pedreira de Freitas oferece infraestrutura educacional completa para seus 2.089 alunos divididos em turnos da manhã, tarde e noite.\n\nSão 36 salas de aula, mais duas para reforço escolar, dois laboratórios de informática e outros dois de ciências, além de biblioteca, auditório e laboratório de física e química. A escola conta com sala de AEE (Atendimento Educacional Especializado). A unidade tem amplo espaço para atividades esportivas, com três quadras à disposição dos alunos, piscina e espaço para artes marciais.",
+    "cursos": [
+      "Serviços Jurídicos",
+      "Educação Básica",
+      "Cursinho pré vestibular",
+      "Faculdade Municipal de Barueri(FMB)"
+    ]
+  },
+  {
+    "titulo": "FIEB - ENGENHO NOVO",
+    "nome": "ITB PROF.ª MARIA SYLVIA CHALUPPE MELLO",
+    "descricao": "Focada nas áreas da Saúde e Comunicação, o Instituto Técnico de Barueri Profª Maria Sylvia Chaluppe Mello, localizado no bairro do Engenho Novo, comporta atualmente 1.438 alunos nos turnos da manhã, tarde e noite. Inaugurada em maio de 2009, além das 16 salas de aula, a unidade tem 10 laboratórios, sendo quatro de informática, e outros voltados especialmente para Enfermagem, Química de Analítica, Química Instrumental, Microscopia, Núcleo Comum e Microbiologia.\n\nA escola comporta uma biblioteca, um auditório e três salas de reforço. Também garante espaço para práticas esportivas com uma quadra.",
+    "cursos": [
+      "Analises Clínicas",
+      "Enfermagem",
+      "Farmácia",
+      "Informática para internet",
+      "Química"
+    ]
+  },
+  {
+    "titulo": "FIEB - JARDIM BELVAL",
+    "nome": "ITB BRASÍLIO FLORES DE AZEVEDO",
+    "descricao": "Localizado ao lado da estação CPTM do Jardim Belval, o ITB Brasílio Flores de Azevedo, foi inaugurado em 1992, antes mesmo da criação da FIEB. Em 2001 a entidade passou a ser mantida pela FIEB, desde então, aumentou sua capacidade de atendimento.\n\nContando atualmente com 2.718 alunos, o local garante excelente infraestrutura com 25 salas de aula e 22 laboratórios. São espaços exclusivos para estudos de Informática Aplicada a Construção Civil, Desenho de Construção Civil, Hidráulica, Elétrica, Materiais e Solos, Comandos Elétricos, Comandos Pneumáticos, Eletrônica Analógica, Informática para Eletrônica, Programação, Projetos, Antenas, Telefonia, Telecomunicações, Redes de Computadores e Ciências da Natureza.\n\n A Unidade do Jardim Belval conta com auditório com capacidade para 200 pessoas, além de biblioteca e quadra coberta.",
+    "cursos": [
+      "Edificações",
+      "Eletroeletrônica",
+      "Informática",
+      "Manutenção e suporte em informática (com robótica e automação)",
+      "Telecomunicações"
+    ]
+  },
+  {
+    "titulo": "FIEB - JARDIM MUTINGA",
+    "nome": "ITB PROF.º HERCULES ALVES DE OLIVEIRA",
+    "descricao": "Com base em três eixos tecnológicos voltados para Gestão e Negócios, Cultura e Design, além de Segurança, o ITB Prof. Hercules Alves de Oliveira, localizado no Jardim Mutinga, oferece cinco cursos técnicos de áreas promissoras no mercado de trabalho.\n\nInaugurado em abril de 2010, a unidade mantém 1.014 alunos pela FIEB e dispõe de pranchetário para aulas de Design de Interiores, 4 laboratórios de Informática e um de Química e Física. No total, a escola conta com oito salas de aulas para os períodos da manhã e tarde e quadra para atividades esportivas.",
+    "cursos": [
+      "Administração",
+      "Design de Interiores",
+      "Logística",
+      "Publicidade"
+    ]
+  },
+  {
+    "titulo": "FIEB - JARDIM PAULISTA",
+    "nome": "ITB PROF.º MUNIR JOSÉ",
+    "descricao": "Segunda unidade da FIEB a iniciar suas atividades, o ITB Professor Munir José foi inaugurado em fevereiro de 2007. No decorrer dos anos, ampliou sua capacidade e, atualmente, oferece cinco cursos técnicos nos períodos da manhã, tarde e noite para 2.460 alunos. Em sua infraestrutura, a escola disponibiliza 23 salas de aulas, além de oito laboratórios modernos, sendo 5 de Informática (sendo dois de Hardware), dois de Gestão e um de Ciências, dedicado para Química, Física e Biologia.\n\nAlém desses espaços, a unidade localizada no Jardim Paulista disponibiliza biblioteca, quadra para práticas esportivas, auditório, sala de reforço e sala de estágios. Para 2019, a administração prepara um laboratório exclusivo para Segurança do Trabalho.",
+    "cursos": [
+      "Administração",
+      "Recursos Humanos.",
+      "Redes de Computadores.",
+      "Secretáriado.",
+      "Segurança do Trabalho."
+    ]
+  },
+  {
+    "titulo": "FIEB - MARIA CRISTINA",
+    "nome": "EEFMT PROF.ª DAGMAR RIBAS TRINDADE",
+    "descricao": "Inaugurada em 28 de março de 2011, a EEFMT Profª Dagmar Ribas Trindade, administrada pela FIEB, foi o resultado do esforço e da união da comunidade do Jardim Maria Cristina, que reivindicava por ensino de qualidade e acessível aos moradores do bairro.\n\nAtualmente, a escola agrega 1.306 alunos com 22 salas de aula, dois espaços para reforço escolar, além de biblioteca, auditório, laboratórios de Ciências e Informática, piscina, quadra e sala de AEE (Atendimento Educacional Especializado).",
+    "cursos": [
+      "Educação Básica"
+    ]
+  },
+  {
+    "titulo": "FIEB - PARQUE IMPERIAL",
+    "nome": "ITB PROF.º MOACYR DOMINGOS SAVIO VERONEZI",
+    "descricao": "Centrada nos eixos Gestão, Negócios, Informação e Comunicação a unidade Parque Imperial da FIEB possui em seu quadro 604 alunos frequentes. No total, o Instituto Técnico Moacyr Domingos Sávio Veronezi abriga 23 salas de aula, mais três laboratórios de Informática e outros três voltados para Ciências, Hardware e Fab Lab (Laboratório de fabricação). Na escola, os alunos têm à disposição uma quadra poliesportiva, um auditório e uma biblioteca. O espaço foi inaugurado em julho de 2010.",
+    "cursos": [
+      "Logística",
+      "Manutenção e suporte em informática(com robótica e automação)"
+    ]
+  },
+  {
+    "titulo": "FIEB - PARQUE VIANA",
+    "nome": "ITB PROF.º ANTONIO ARANTES FILHO",
+    "descricao": "O Instituto Técnico de Barueri do Parque Viana foi inaugurado em dezembro de 2010 e conta com quatro cursos técnicos em sua lista, a unidade FIEB - Parque Viana possui 868 alunos divididos entre os períodos da manhã e noite. A estrutura do ITB Prof. Antonio Arantes Filho conta com 24 salas de aula, dois laboratórios de Informática, Química, Biologia e outros dois dedicados exclusivamente a Hospedagem. A escola também disponibiliza sala de reforço, auditória para palestras e biblioteca.",
+    "cursos": [
+      "Contabilidade",
+      "Finanças",
+      "Hospedagem",
+      "Informática"
+    ]
+  }
+]
